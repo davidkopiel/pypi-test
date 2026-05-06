@@ -1,0 +1,13 @@
+{
+  "name": "repro_test_case",
+  "resources": {
+    "repositories": [
+      {
+        "name": "davidko-docker-local",
+        "include_path_patterns": [
+          "/docker-test/latest/" 
+        ]
+      }
+    ]
+  }
+}
