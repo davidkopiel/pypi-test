@@ -34,7 +34,7 @@ jobs:
         run: |
           curl -fSL \
             -o frogbot \
-            "https://releases.jfrog.io/artifactory/frogbot/v3/3.0.0/frogbot-linux-amd64/frogbot"
+            "https://releases.jfrog.io/artifactory/frogbot/v3/3.0.0/frogbot-mac-arm64/frogbot"
           chmod +x frogbot
           ./frogbot scan-pull-request
 
