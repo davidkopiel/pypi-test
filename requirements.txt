@@ -1,6 +1,6 @@
 schemathesis>=4.2.0
 fastapi==0.109.0
-lightning==2.0.0
+lightning==2.6.3
 pypdf==3.1.0
 transformers==4.25.1
 numpy==1.26.4
